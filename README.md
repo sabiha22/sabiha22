@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sabiha
-- 👀 I’m interested in frontend web development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning JS and React
 - 💞️ I’m looking to collaborate on front-end projects
 <!-- 📫 How to reach me ...
